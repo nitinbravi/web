@@ -6,14 +6,14 @@ image:
 ---
 My research interests include 
 
-* *Ultrasonics and Wave propagation phenomena,* 
-* *Optical systems and computer vision*
-* *Sensor Network and Optimization,*
-* *Structural Health Monitoring and Non-destructive testing,*
-* *Ray tracing-based modelling and Graph theory,* 
-* *Finite Element Simulations,* 
-* *Hardware-in-loop and real-time systems,*
-* *Internet of Things*
+* **Ultrasonics and Wave propagation phenomena,** 
+* **Optical systems and computer vision**,
+* **Sensor Network and Optimization,**
+* **Structural Health Monitoring and Non-destructive testing,**
+* **Ray tracing-based modelling and Graph theory,** 
+* **Finite Element Simulations,** 
+* **Hardware-in-loop and real-time systems,**
+* **Internet of Things**
 
 The following are some of my works and presentations.
 
