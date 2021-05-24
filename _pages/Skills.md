@@ -2,7 +2,7 @@
 layout: page
 title: Skill set
 permalink: /Skills/
-image: 
+image: NY_TimesSquare.JPG
 ---
 
 Some of the skills that I have picked up over my career. 

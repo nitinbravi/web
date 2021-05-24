@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
-image: 
+image: MuirWoods.JPG
 ---
 My research interests include 
 
