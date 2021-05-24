@@ -10,7 +10,7 @@ I completed my Bachelors in Electronics and Communication Engineering from [Sri 
 
 I am an avid animal lover and an adoption advocate. I was a founding member of the Animal Welfare Group (AWG) at IISc where we initiated and started a students run volunteers group of more than 80 students that advocates coexistence of campus residents with animals and minimize human-animal conflicts. The group works in close coordination with the administration of IISc for vaccination and well-being of stray animals, rescue and rehablitation. [IISc Animal Welfare Group Website](https://sites.google.com/view/iisc-awg)
 
-My former volunteering activities include being an English Tutor for underpreviledged students in non English medium school as part of the IISc Notebook Drive, IISc (2014-2015) and being a Volunteer at [Charlie’s Animal Rescue Centre (CARE)](https://charlies-care.com), Bangalore (2017).
+My former volunteering activities include being an English Tutor for students in a non English medium school as part of the IISc Notebook Drive (2014-2015) and being a Volunteer at [Charlie’s Animal Rescue Centre (CARE)](https://charlies-care.com), Bangalore (2017).
 
 During my free time, I like to pick up a book and read (personally, I prefer non-fictional ones) or go cycling.  I am currently interested in the [physics of photography](https://sites.google.com/site/marclevoylectures/) and I am trying to pick up a thing or two about the art of making short movies. 
 
