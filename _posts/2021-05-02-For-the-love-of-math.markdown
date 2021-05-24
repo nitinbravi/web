@@ -19,7 +19,7 @@ A friend jokingly asked me if calculus is indeed used in everyday life beyond 12
 
 ### GROUND RULES:
 
-1. I will be referencing documents that are freely available online that anyone without institutional access/subscription can download and read. The credit goes to the brilliant scientists/authors of the journal/article/publication. I do **NOT** claim any credit for their work. The point is to make the reader appreciate the beauty of maths by pointing to their work. References follow and links in [] brackets. 
+1. I will be referencing documents that are freely available online that anyone without institutional access/subscription can download and read. The credit goes to the brilliant scientists/authors of the journal/article/publication. I do **NOT** claim any credit for their work. The point is to make the reader appreciate the beauty of maths by pointing to their work. References follow and links in <font color="#ce2b37"> colour.</font> 
 2. I will not be making an effort to explain the complexities of the equations but rather show how mathematics is used in everyday applications. There could be conflicting works in the same domain, but I will make an effort to point to the seminal work in the area. References and citations can be tracked for latest developments in that area. 
 
 So let's make mathematics fun?
