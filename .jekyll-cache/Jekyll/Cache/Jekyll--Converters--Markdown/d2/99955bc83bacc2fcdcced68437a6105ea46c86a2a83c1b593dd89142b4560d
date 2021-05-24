@@ -1,0 +1,104 @@
+I"7<hr />
+
+<p style="color:#ce2b37;">
+  <i><b>NOTE</b>: I took this as a 30 day challenge and I am glad I was able to see till the end. It was fascinating and a great learning experience for me. I am now discontinuing this effort to pursue a couple of other ideas. Stay tuned!</i></p>
+
+<hr />
+
+<p>“To those who do not know mathematics it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature … If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. She offers her information only in one form; we are not so un-humble as to demand that she change before we pay any attention ” - <a href="https://www.cc.gatech.edu/scivis/education/java/kluk/1/feynman.html">Richard Feynman</a></p>
+
+<p>A friend jokingly asked me if calculus is indeed used in everyday life beyond 12th-grade exams. This got me thinking, and as a personal endeavor to make mathematics fun and approachable, I am consolidating a list where mathematics gives more insight. The objective is to make people appreciate the use of mathematics in seemingly random applications in their everyday lives.</p>
+
+<h3 id="ground-rules">GROUND RULES:</h3>
+
+<ol>
+  <li>I will be referencing documents that are freely available online that anyone without institutional access/subscription can download and read. The credit goes to the brilliant scientists/authors of the journal/article/publication. I do <strong>NOT</strong> claim any credit for their work. The point is to make the reader appreciate the beauty of maths by pointing to their work. References follow and links in [] brackets.</li>
+  <li>I will not be making an effort to explain the complexities of the equations but rather show how mathematics is used in everyday applications. There could be conflicting works in the same domain, but I will make an effort to point to the seminal work in the area. References and citations can be tracked for latest developments in that area.</li>
+</ol>
+
+<p>So let’s make mathematics fun?</p>
+
+<hr />
+<p><strong><code class="language-plaintext highlighter-rouge">02/05/2021</code></strong></p>
+
+<p>Phyllotaxis is the arrangement of leaves in a stem of a plant. It turns out that there is a mathematical model to recreate the pattern called the DC2 equation but with certain assumptions causing the model to fail for different plant types. The modified version of the equation has now been determined that is more general for all plant types.</p>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>
+    <p>Douady, Stephane, and Yves Couder. <em>Phyllotaxis as a physical self-organized growth process.</em> Physical review letters 68.13 (1992): 2098. <a href="https://pcl.sitehost.iu.edu/rgoldsto/complex/Douady%20&amp;%20Couder.pdf">Link</a></p>
+  </li>
+  <li>
+    <p>Yonekura, Takaaki, et al. <em>Mathematical model studies of the comprehensive generation of major and minor phyllotactic patterns in plants with a predominant focus on orixate phyllotaxis.</em>” PLoS computational biology 15.6 (2019): e1007044. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007044">Link</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">01/05/2021</code></strong></p>
+
+<p>Mathematical modelling of spatial settlements, human behavior in the past and its relationship between the physical structure of space and the quality of life forms the basis of computational archeology.</p>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Dettlaff, Weronika. <em>Space syntax analysis–methodology of understanding the space.</em> PhD Interdisciplinary Journal (2014): 283-291. <a href="http://sdpg.pg.gda.pl/pij/wp-content/blogs.dir/133/files/2014/12/01_2014_30-dettlaff.pdf">Link</a></li>
+  <li>Space Syntax Laboratory, University College, London <a href="https://www.ucl.ac.uk/bartlett/architecture/research/space-syntax-laboratory">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">30/04/2021</code></strong></p>
+
+<p>Applied mathematics for social causes. This is a broad documentation released as a special issue, containing eleven different ideas on how differential equations can be used for social justice and environmental causes.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Linking Differential Equations to Social Justice and Environmental Concerns - CODEE Online Journal <a href="https://scholarship.claremont.edu/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1048&amp;context=codee">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">29/04/2021</code></strong></p>
+
+<p>What is the relationship between hill inclination, time and hiking speed required to climb a hill? Tobler’s hiking function gives precisely that, although the model was derived using emperical data.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Tobler, Waldo. “Three presentations on geographical analysis and modeling.” (1993). <a href="https://escholarship.org/content/qt05r820mz/qt05r820mz.pdf">Link</a></li>
+  <li>Open source tool to compute the walking time <a href="https://gisunchained.wordpress.com/plugins-qgis/walking-time/">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">28/04/2021</code></strong></p>
+
+<p>What is so unique about the following jokes?</p>
+
+<p><code class="language-plaintext highlighter-rouge">What is the difference between a pretty glove and a silent cat? - One is a cute mitten, the other is a mute kitten.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">What do you call a strange market?- A bizarre bazaar</code></p>
+
+<p>These punning riddles were created by a computer program called JAPE, and are a part of computational humour. This field uses mathematics, linguistics and AI to computationally model a sense of humour.</p>
+
+<p><strong>References</strong></p>
+
+<p>Ritchie, Graeme. “The JAPE riddle generator: technical specification.” <em>Institute for Communicating and Collaborative Systems</em> (2003). <a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=DAE0C3739DE156BB074E3F8BD7ACF255?doi=10.1.1.107.6351&amp;rep=rep1&amp;type=pdf">Link</a></p>
+
+<p>Ritchie, Graeme, et al. “A practical application of computational humour.” <em>Proceedings of the 4th International Joint Conference on Computational Creativity</em>. (2007) <a href="https://www.abdn.ac.uk/ncs/documents/ijwcc07.pdf">Link</a></p>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">27/04/2021</code></strong></p>
+
+<p>What is so unique about the following jokes?</p>
+
+<p><code class="language-plaintext highlighter-rouge">What is the difference between a pretty glove and a silent cat? - One is a cute mitten, the other is a mute kitten.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">What do you call a strange market?- A bizarre bazaar</code></p>
+
+<p>These punning riddles were created by a computer program called JAPE, and are a part of computational humour. This field uses mathematics, linguistics and AI to computationally model a sense of humour.</p>
+
+<p><strong>References</strong></p>
+:ET
