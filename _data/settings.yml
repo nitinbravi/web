@@ -9,7 +9,7 @@ description: This page is inspired by Zolan, a modern minimal theme for Jekyll
 # Author Settings
 author:
   name: Nitin B. Ravi
-  image: _site/images/ProfilePic.jpg
+  image: ProfilePic.jpg
   say-hello: Hello, I’m <strong>Nitin</strong>
   bio: Researcher, Tech-buff, Sustainable Living, Adoption advocate, Animal Lover.  
 
