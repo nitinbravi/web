@@ -184,3 +184,197 @@ PS: It is one of the most highly cited work in management sciences!
 
 ***
 
+**`19/04/2021`**
+
+Getting into Operations Research, Logistics and Fleet management to find optimal routes for vehicles when visiting multiple set of locations. The seminal work in the area was called the "The Truck Dispatching Problem", which later became, what is now known as, "Vehicle Routing Problem (VRP)". This is a slightly complicated version of The Travelling Salesman problem discussed on 13/04/2021.
+
+**References**
+
+- Dantzig, George B., and John H. Ramser. "The truck dispatching problem." *Management science* 6.1 (1959): 80-91. [Link](https://andresjaquep.files.wordpress.com/2008/10/2627477-clasico-dantzig.pdf)
+- Google OR Tools - Vehicle Routing Problems [Link](https://developers.google.com/optimization/routing/vrp) (Follow the link for some really cool examples)
+
+***
+
+**`18/04/2021`**
+
+In to the world of mathematical optimization. One very interesting application is use of multiobjective optimization techniques for Municipal Solid Waste Management Systems in cities. 
+
+**References**
+
+- Sudha, Goel. "Municipal solid waste management (MSWM) in India a critical review." *J Environ Sci Eng* 50.4 (2008): 319-328.[Link-1](http://www.environmentportal.in/files/Journal%20of%20Enviro%20Scie%20and%20Engi.pdf) [Link-2](https://pubmed.ncbi.nlm.nih.gov/19697768/)
+- Chinchodkar, K. N., and Omprakash S. Jadhav. "Development of mathematical model for the solid waste management on dumping ground at Mumbai for the reduction of existence cost." *International Journal of Statistics and Systems* 12.1 (2017): 145-155. [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.ripublication.com%2Fijss17%2Fijssv12n1_12.pdf&sa=D&sntz=1&usg=AFQjCNH6O6ZP8rJWGXH_oEzP076Bc05iMg)
+
+***
+
+**`16/04/2021`**
+
+Diving in to Botany. Mathematical modelling and plant growth analysis. 
+
+**References**
+
+- Hunt, R., et al. "A modern tool for classical plant growth analysis." *Annals of botany* 90.4 (2002): 485-488. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4240380/)
+- Evans, George Clifford. *The quantitative analysis of plant growth*. Vol. 1. Univ of California Press, 1972.
+
+***
+
+**`15/04/2021`**
+
+Differential equations to model interactions between two species, where one is a predator and other is a prey. 
+
+**References**
+
+- Frank Hoppensteadt (2006) Predator-prey model. Scholarpedia, 1(10):1563. [Link](http://www.scholarpedia.org/article/Predator-prey_model)
+
+***
+
+**`14/04/2021`** 
+
+Mathematically modelling a modern war. Fun fact, chimpanzees intuitively follow this before engaging into a fight with another troop of chimpanzees. 
+
+**References**
+
+- Bellany, Ian. "Modelling war." *Journal of peace research* 36.6 (1999): 729-739.[Link](https://www.jstor.org/stable/424975)
+- Wilson, Michael L., Nicholas F. Britton, and Nigel R. Franks. "Chimpanzees and the mathematics of battle." *Proceedings of the Royal Society of London. Series B: Biological Sciences*269.1496 (2002): 1107-1112. [Link](https://royalsocietypublishing.org/doi/10.1098/rspb.2001.1926)
+- Stanescu, Marius, Nicolas Barriga, and Michael Buro. "Using Lanchester attrition laws for combat prediction in StarCraft." *Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment*. Vol. 11. No. 1. 2015. [Link](https://ojs.aaai.org/index.php/AIIDE/article/view/12780/12628)
+
+***
+
+**`13/04/2021`** 
+
+Finding a shortest possible route to nearly every pub in the UK. 
+
+**References**
+
+- William Cook et al. Shortest possible tour to nearly every pub in the United Kingdom- UK49687 [Link](http://www.math.uwaterloo.ca/tsp/uk/index.html)  (Follow the link for some really cool explanations and other applications)
+- Wikipedia - Travelling Salesman Problem [Link](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+
+***
+
+**`12/04/2021`** 
+
+There is a theorem to represent the seam of a tennis ball! 
+
+**References**
+
+- Wikipedia - Tennis ball theorem. [Link](https://en.wikipedia.org/wiki/Tennis_ball_theorem)
+- Curve described by a seam line of a tennis ball [Link](https://mathcurve.com/courbes3d.gb/couture/couture.shtml)
+- Math Stack Exchange is sometimes a great source of information [Link-1](https://math.stackexchange.com/questions/316531/parametric-curve-for-a-tennis-ball-seam), [Link-2](https://math.stackexchange.com/questions/2801028/is-there-a-neat-way-to-write-the-parameterization-of-this-tennis-ball-seam-like?noredirect=1&lq=1)
+- Parameteric equation of tennis ball seam curve 
+
+<iframe src="https://www.youtube.com/embed/A5sCQ_ZCh0U" frameborder="0" allowfullscreen></iframe>
+
+**Additional**: Aerodynamics of a tennis ball
+
+- Alam, F., Subic, A., Naser, J., Rasul, M., & Khan, M. (2008). A study of spin effects on tennis ball aerodynamics [Link](http://www.wseas.us/e-library/transactions/fluid/2008/MGR-09.pdf)
+
+***
+
+**`11/04/2021`** 
+
+What has Microsoft's Minesweeper game got to do with the biggest unsolved problems in Computer Science?
+
+**References**
+
+- Richard Kaye's Minesweeper Pages [Link](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm)
+- Ian Stewart on Minesweeper [Link](https://www.claymath.org/sites/default/files/minesweeper.pdf)
+- Claymath - P vs NP Problem [Link](https://www.claymath.org/millennium-problems/p-vs-np-problem)
+- P vs NP, The biggest unsolved problem in Computer Science - Up and Atom
+
+<iframe src="https://www.youtube.com/embed/EHp4FPyajKQ" frameborder="0" allowfullscreen></iframe>
+
+***
+
+**`10/04/2021`** 
+
+Will you change your mind, if I present you with a new fact? Delving in to the world of Bayesian Inference. 
+
+**References**
+
+- Weisstein, Eric W. "Bayes' Theorem." From *MathWorld*--A Wolfram Web Resource. [Link](https://mathworld.wolfram.com/BayesTheorem.html)
+- Arbital Guide to Bayes rule [Link](https://arbital.com/p/bayes_rule/?l=1zq)
+- A Visual Guide to Bayesian thinking - Julia Galef
+
+<iframe src="https://www.youtube.com/embed/BrK7X_XlGB8" frameborder="0" allowfullscreen></iframe> 
+
+- The Bayesian Trap - Veritasium
+
+<iframe src="https://www.youtube.com/embed/R13BD8qKeTg" frameborder="0" allowfullscreen></iframe> 
+
+***
+
+**`09/04/2021`** 
+
+Checkmate! In the fascinating world of Chess, Graph theory to represent all the legal moves of a chess piece on a chess board. 
+
+**References**
+
+- Wagon, Stan and Weisstein, Eric W. "Rook Graph." From *MathWorld*--A Wolfram Web Resource. [Link](https://mathworld.wolfram.com/RookGraph.html)
+- Bishop Graph [Link](https://mathworld.wolfram.com/BishopGraph.html) 
+- Queen Graph [Link](https://mathworld.wolfram.com/QueenGraph.html) 
+- King Graph [Link](https://mathworld.wolfram.com/KingGraph.html)
+
+***
+
+**`08/04/2021`** 
+
+ "Psst! Aliens from Mars are amongst us. They are on a secret mission to take over our planet. Spread the word around". Modelling rumour spread in a community using Logistic Differential Equation
+
+**References**
+
+- Weisstein, Eric W[.](https://www.google.com/url?q=https%3A%2F%2Fmathworld.wolfram.com%2Fabout%2Fauthor.html&sa=D&sntz=1&usg=AFQjCNG6bJ7cl8hdh2vPszJrswQMWeu3UA) "Logistic Equation." From *MathWorld*--A Wolfram Web Resource. [Link](https://mathworld.wolfram.com/LogisticEquation.html) 
+- Class notes of Prof. Grant B. Gustafson, University of Utah [Link](http://www.math.utah.edu/~gustafso/s2015/2250/2250logistic.pdf)
+
+***
+
+**`07/04/2021`** 
+
+Cooking that perfect egg. 
+
+**References**
+
+* Charles D. H. Williams, *The Science of Boiling an Egg* [Link-1](http://newton.ex.ac.uk/teaching/CDHW/egg/), [Link-2](https://newton.ex.ac.uk/teaching/CDHW/egg/CW061201-1.pdf)
+
+***
+
+**`06/04/2021`** 
+
+- The calculus that is used in modelling election voting and understanding political behaviour
+
+**References**
+
+ Riker, W. H., & Ordeshook, P. C. (1968). A Theory of the Calculus of Voting. *The American political science review*, *62*(1), 25-42. [Link](https://www.jstor.org/stable/1953324)
+
+***
+
+**`05/04/2021`** 
+
+Thiele Differential Equation - The mathematics used in insurance products.
+
+**References**
+
+* Thiele differential equation. *Encyclopedia of Mathematics.* [Link](https://encyclopediaofmath.org/index.php?title=Thiele_differential_equation&oldid=50060)
+
+***
+
+**`04/04/2021`** 
+
+When zombies attack, we are screwed! Proof by mathematics. 
+
+Just kidding, the equations used are the same ones used to model an infection outbreak.
+
+**References**
+
+* Munz, P., Hudea, I., Imad, J., & Smith, R. J. (2009). When zombies attack!: Mathematical modelling of an outbreak of zombie infection. *Infectious disease modelling research progress*, *4*, 133-150. [Link](https://loe.org/images/content/091023/Zombie%20Publication.pdf)
+
+***
+
+**`03/04/2021`** 
+
+How do you model a love-affair between 2 people? The maths behind love. 
+
+**References**
+
+* Steven H. Strogatz (1988) Love Affairs and Differential Equations, Mathematics Magazine, 61:1, 35. [Link](https://www.ndsu.edu/pubweb/~dilks/SS_love_dEq.pdf), [DOI](https://doi.org/10.1080/0025570X.1988.11977342)
+
+***
+

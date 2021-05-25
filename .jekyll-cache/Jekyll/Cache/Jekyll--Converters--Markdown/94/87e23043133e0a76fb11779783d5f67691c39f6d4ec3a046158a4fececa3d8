@@ -1,0 +1,228 @@
+I"�6<hr />
+
+<p style="color:#ce2b37;">
+  <i><b>NOTE</b>: I took this as a 30 day challenge and I am glad I was able to see till the end. It was fascinating and a great learning experience for me. I am now discontinuing this effort to pursue a couple of other ideas. Stay tuned!</i></p>
+
+<hr />
+
+<p>“To those who do not know mathematics it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature … If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. She offers her information only in one form; we are not so un-humble as to demand that she change before we pay any attention ” - <a href="https://www.cc.gatech.edu/scivis/education/java/kluk/1/feynman.html">Richard Feynman</a></p>
+
+<p>A friend jokingly asked me if calculus is indeed used in everyday life beyond 12th-grade exams. This got me thinking, and as a personal endeavor to make mathematics fun and approachable, I am consolidating a list where mathematics gives more insight. The objective is to make people appreciate the use of mathematics in seemingly random applications in their everyday lives.</p>
+
+<h3 id="ground-rules">GROUND RULES:</h3>
+
+<ol>
+  <li>I will be referencing documents that are freely available online that anyone without institutional access/subscription can download and read. The credit goes to the brilliant scientists/authors of the journal/article/publication. I do <strong>NOT</strong> claim any credit for their work. The point is to make the reader appreciate the beauty of maths by pointing to their work. References follow and links in <font color="#ce2b37"> colour.</font></li>
+  <li>I will not be making an effort to explain the complexities of the equations but rather show how mathematics is used in everyday applications. There could be conflicting works in the same domain, but I will make an effort to point to the seminal work in the area. References and citations can be tracked for latest developments in that area.</li>
+</ol>
+
+<p>So let’s make mathematics fun?</p>
+
+<hr />
+<p><strong><code class="language-plaintext highlighter-rouge">02/05/2021</code></strong></p>
+
+<p>Phyllotaxis is the arrangement of leaves in a stem of a plant. It turns out that there is a mathematical model to recreate the pattern called the DC2 equation but with certain assumptions causing the model to fail for different plant types. The modified version of the equation has now been determined that is more general for all plant types.</p>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>
+    <p>Douady, Stephane, and Yves Couder. <em>Phyllotaxis as a physical self-organized growth process.</em> Physical review letters 68.13 (1992): 2098. <a href="https://pcl.sitehost.iu.edu/rgoldsto/complex/Douady%20&amp;%20Couder.pdf">Link</a></p>
+  </li>
+  <li>
+    <p>Yonekura, Takaaki, et al. <em>Mathematical model studies of the comprehensive generation of major and minor phyllotactic patterns in plants with a predominant focus on orixate phyllotaxis.</em>” PLoS computational biology 15.6 (2019): e1007044. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007044">Link</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">01/05/2021</code></strong></p>
+
+<p>Mathematical modelling of spatial settlements, human behavior in the past and its relationship between the physical structure of space and the quality of life forms the basis of computational archeology.</p>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Dettlaff, Weronika. <em>Space syntax analysis–methodology of understanding the space.</em> PhD Interdisciplinary Journal (2014): 283-291. <a href="http://sdpg.pg.gda.pl/pij/wp-content/blogs.dir/133/files/2014/12/01_2014_30-dettlaff.pdf">Link</a></li>
+  <li>Space Syntax Laboratory, University College, London <a href="https://www.ucl.ac.uk/bartlett/architecture/research/space-syntax-laboratory">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">30/04/2021</code></strong></p>
+
+<p>Applied mathematics for social causes. This is a broad documentation released as a special issue, containing eleven different ideas on how differential equations can be used for social justice and environmental causes.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Linking Differential Equations to Social Justice and Environmental Concerns - CODEE Online Journal <a href="https://scholarship.claremont.edu/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1048&amp;context=codee">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">29/04/2021</code></strong></p>
+
+<p>What is the relationship between hill inclination, time and hiking speed required to climb a hill? Tobler’s hiking function gives precisely that, although the model was derived using emperical data.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Tobler, Waldo. “Three presentations on geographical analysis and modeling.” (1993). <a href="https://escholarship.org/content/qt05r820mz/qt05r820mz.pdf">Link</a></li>
+  <li>Open source tool to compute the walking time <a href="https://gisunchained.wordpress.com/plugins-qgis/walking-time/">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">28/04/2021</code></strong></p>
+
+<p>What is so unique about the following jokes?</p>
+
+<p><code class="language-plaintext highlighter-rouge">What is the difference between a pretty glove and a silent cat? - One is a cute mitten, the other is a mute kitten.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">What do you call a strange market?- A bizarre bazaar</code></p>
+
+<p>These punning riddles were created by a computer program called JAPE, and are a part of computational humour. This field uses mathematics, linguistics and AI to computationally model a sense of humour.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>
+    <p>Ritchie, Graeme. “The JAPE riddle generator: technical specification.” <em>Institute for Communicating and Collaborative Systems</em> (2003). <a href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=DAE0C3739DE156BB074E3F8BD7ACF255?doi=10.1.1.107.6351&amp;rep=rep1&amp;type=pdf">Link</a></p>
+  </li>
+  <li>
+    <p>Ritchie, Graeme, et al. “A practical application of computational humour.” <em>Proceedings of the 4th International Joint Conference on Computational Creativity</em>. (2007) <a href="https://www.abdn.ac.uk/ncs/documents/ijwcc07.pdf">Link</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">27/04/2021</code></strong></p>
+
+<p>Geometry and Origami (the art of paper folding) go hand-in-hand and is known to have applications in a variety of real-world problems. For example, the folding of paper can be used to determine the roots of a cubic equation. There is also an interesting connection between the art and an Indian Mathematician, T. Sundara Row (or Rao). He published <em>Geometric exercises in Paper Folding</em> in 1893, and is considered to be “<em>one of the main engines of the popularization of folding as a mathematical activity</em>” according to mathamatical historian Michael Friendman.</p>
+
+<p>The book according to T. S. Rao was “.<em>.sought not only to aid the teaching of geometry in schools and colleges, but also to afford mathematical recreation to young and old, in an at- tractive and cheap form. “Old boys” like myself may find the book useful to revive their old lessons, and to have a peep into modern developments which, although very interesting and instructive, have been ignored by university teachers.</em>”</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Rao, Tandalam Sundara, <em>Geometric Exercises in Paper Folding</em>. Open court pub. Company, 1901. <a href="https://archive.org/details/cu31924001522212/mode/2up">Online Book</a></li>
+  <li>Robert Lang Origami <a href="https://langorigami.com">Website</a> (He is considered to be a pioneer in the use of mathematics and engineering principles inspired by origami)</li>
+  <li>Mathologer - Why don’t they teach this simple visual solution? (Lill’s method)</li>
+</ul>
+<iframe src="https://www.youtube.com/embed/IUC-8P0zXe8" frameborder="0" allowfullscreen=""></iframe>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">26/04/2021</code></strong></p>
+
+<p>The best way to lace your shoes mathematically.</p>
+
+<p><strong>References</strong></p>
+
+<p>Polster, B. What is the best way to lace your shoes?. <em>Nature</em> <strong>420,</strong> 476 (2002) <a href="https://www.nature.com/articles/420476a">Link</a></p>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">25/04/2021</code></strong></p>
+
+<p>Taking a sofa round a corner? Pivot! Pivot! Pivot! Sorry, couldn’t help referencing <em>Friends</em> (Season 5, Episode 16) here :-)</p>
+
+<p>“What is the planar shape of maximal area that can be moved around a right-angled corner in a hallway of unit width?” - The moving sofa problem</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>
+    <p>Romik, Dan. “Differential equations and exact solutions in the moving sofa problem.” <em>Experimental Mathematics</em> 27.3 (2018): 316-330. <a href="https://www.math.ucdavis.edu/~romik/data/uploads/papers/sofa.pdf">Link</a></p>
+  </li>
+  <li>
+    <p>The Moving Sofa Problem - Numberphile</p>
+  </li>
+</ul>
+
+<iframe src="https://www.youtube.com/embed/rXfKWIZQIo4" frameborder="0" allowfullscreen=""></iframe>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">24/04/2021</code></strong></p>
+
+<p>It is known that the wave equation, a class of partial differential equations, is one of the widely used equations to describe systems whose solutions are “wave” like, and is best used to study the vibration in a string, e.g. the plucking of a guitar string.</p>
+
+<p>But do you know that the mathematical modelling of vibrating string led to a major controversy between d’Alembert,  Euler and Daniel Bernouilli, beginning in 1750 and lasting 80 years until Fourier and Dirchilet provided a solution?</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>
+    <p>Wheeler, Gerald F., and William P. Crummett. “The vibrating string controversy.” <em>American Journal of Physics</em> 55.1 (1987): 33-37 <a href="https://moodle2.units.it/pluginfile.php/210410/mod_resource/content/1/controversy.pdf">Link</a></p>
+  </li>
+  <li>
+    <p>Zeeman, E. C. “Controversy in science: on the ideas of Daniel Bernoulli and René Thom.” <em>Nieuw Arch. Wisk</em> 11 (1993): 257.<a href="http://zakuski.utsa.edu/~gokhman/ecz/controversy_in_science.pdf">Link</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">23/04/2021</code></strong></p>
+
+<p>How to find a needle in a haystack?</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Craswell, Keith J. “How to Find a Needle in a Haystack.” <em>The Two-Year College Mathematics Journal</em> 4.3 (1973): 18-21.<a href="https://www.jstor.org/stable/3026514?origin=crossref&amp;seq=1">Link</a> (<u>Unfortunately requires institutional/subscription based login.</u>)</li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">22/04/2021</code></strong></p>
+
+<p>Marriage, Set theory and combinatorics?</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Hall’s Marriage Theorem, Brilliant.org, Retrieved 08:32, April 22, <a href="https://brilliant.org/wiki/hall-marriage-theorem/">Link</a></li>
+  <li>Fables of Data Science — Hall’s Marriage Theorem, Medium.com, Retrieved 08:35, April 22, <a href="https://medium.com/analytics-vidhya/fables-of-data-science-halls-marriage-theorem-b761179d9d23">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">21/04/2021</code></strong></p>
+
+<p>Let’s go to space. Do extra-terrestrial, alien society exist and how many are detectable? Turns out this can be estimated using Drakes Equation, albeit with uncertainities.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Drake Equation - SETI <a href="https://www.seti.org/drake-equation-index">Link</a></li>
+  <li>Are we alone in the universe? Revisiting the Drake equation <a href="https://www.seti.org/drake-equation-index">Link</a></li>
+</ul>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">20/04/2021</code></strong></p>
+
+<p>Say a new product is introduced in a market. How does it get adopted in a population and what is its sales prediction?</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Bass, Frank M. “A new product growth for model consumer durables.” <em>Management science</em> 15.5 (1969): 215-227. <a href="http://www.bassbasement.org/F/N/FMB/Pubs/Bass%201967%20A%20New%20Product%20Growth%20Model%20WP.pdf">Link-1</a>, <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.15.5.215">Link-2</a></li>
+</ul>
+
+<p>PS: It is one of the most highly cited work in management sciences!</p>
+
+<hr />
+
+<p><strong><code class="language-plaintext highlighter-rouge">19/04/2021</code></strong></p>
+
+<p>Getting into Operations Research, Logistics and Fleet management to find optimal routes for vehicles when visiting multiple set of locations. The seminal work in the area was called the “The Truck Dispatching Problem”, which later became, what is now known as, “Vehicle Routing Problem (VRP)”. This is a slightly complicated version of The Travelling Salesman problem discussed on 13/04/2021.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Dantzig, George B., and John H. Ramser. “The truck dispatching problem.” <em>Management science</em> 6.1 (1959): 80-91. <a href="https://andresjaquep.files.wordpress.com/2008/10/2627477-clasico-dantzig.pdf">Link</a></li>
+  <li>Google OR Tools - Vehicle Routing Problems <a href="https://developers.google.com/optimization/routing/vrp">Link</a> (Follow the link for some really cool examples)</li>
+</ul>
+
+:ET
