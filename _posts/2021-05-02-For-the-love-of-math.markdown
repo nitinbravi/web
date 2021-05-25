@@ -9,7 +9,7 @@ description: Mathematics of everyday life
 ***
 
 <p style="color:#ce2b37;">
-  <i><b>NOTE</b>: I took this as a 30 day challenge and I am glad I was able to see till the end. It was fascinating and a great learning experience for me. I am now discontinuing this effort to pursue a couple of other ideas. Stay tuned!</i></p>
+  <i><b>NOTE</b>: I took this as a 30 day challenge and I am glad I was able to see it through. It was fascinating and a great learning experience for me. I am now discontinuing this effort to pursue a couple of other ideas. Stay tuned!</i></p>
 
 ***
 
