@@ -4,6 +4,9 @@ title: Research
 permalink: /Research/
 image: MuirWoods.JPG
 ---
+<center><font size="2">Muir Woods National Monument, San Francisco (2010) &copy; Nitin B. Ravi </font></center>
+<br>
+
 My research interests include 
 
 * **Ultrasonics and Wave propagation phenomena,** 
