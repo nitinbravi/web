@@ -4,6 +4,7 @@ title:  "An eventful event"
 date:   2017-03-03 12:05:55 +0530
 image:  
 tags:   Memories
+description: A blog recollecting a memory that defined me. 
 ---
 Finally, I have come around to blog about something I have been thinking about for quite a long time. I vividly remember that day, that eventful car ride that haunts me to date. This is my effort to pen down something that I think is an event that played a significant role in my life.
 
