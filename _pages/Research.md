@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /Research/
-image: MuirWoods.JPG
+image: NY_TimesSquare.JPG
 ---
-<center><font size="2">Muir Woods National Monument, San Francisco (2010) &copy; Nitin B. Ravi </font></center>
-<br>
+
+<center><font size="2">Times Square, New York City (2012) &copy; Nitin B. Ravi </font></center>
 
 My research interests include 
 
