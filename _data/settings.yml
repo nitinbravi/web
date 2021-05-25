@@ -9,7 +9,7 @@ description: Personal Webpage of Nitin B. Ravi
 author:
   name: Nitin B. Ravi
   image: ProfilePic.jpg
-  say-hello: Hello, I’m <strong>Nitin</strong>
+  #say-hello: Hello, I’m <strong>Nitin</strong>
   bio: Researcher, Tech-buff, Sustainable Living, Animal Lover, Adoption advocate.
 
 #-------------------------------

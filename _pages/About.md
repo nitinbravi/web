@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 image: Nitin_trek.jpg
 ---
-<center><font size="2">Pushpagiri Hills, Karnataka(2013) &copy; Nitin B. Ravi </font></center>  
+<center><font size="2">Pushpagiri Hills, Karnataka (2013) &copy; Nitin B. Ravi </font></center>  
 <br>
 
 Hi, I am Nitin, a PhD student in [Department of Aerospace Engineering](http://aero.iisc.ac.in) at [Indian Institute of Science](https://www.iisc.ac.in) (IISc), Bengaluru advised by [Prof. D. Roy Mahapatra](http://aero.iisc.ac.in/people/d-roy-mahapatra/), where I am a part of his [Integrative Multiscale Engineering of Materials and Systems (iMEMS) Group](https://imemslab.azurewebsites.net/). 
@@ -15,7 +15,7 @@ I am an avid animal lover and an adoption advocate. I was a founding member of t
 
 My former volunteering activities include being an English Tutor for students in a non English medium school as part of the IISc Notebook Drive (2014-2015) and being a Volunteer at [Charlie’s Animal Rescue Centre (CARE)](https://charlies-care.com), Bangalore (2017).
 
-During my free time, I like to pick up a book and read (personally, I prefer non-fictional ones) or go cycling.  I am currently interested in the [physics of photography](https://sites.google.com/site/marclevoylectures/) and I am trying to pick up a thing or two about the art of making short movies. 
+I love to travel and enjoy a good trek. During my free time, I like to pick up a book and read (personally, I prefer non-fictional ones) or go cycling. I am currently interested in the [physics of photography](https://sites.google.com/site/marclevoylectures/) and I am trying to pick up a thing or two about the art of making short movies. 
 
 
 
