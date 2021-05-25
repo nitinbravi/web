@@ -4,8 +4,9 @@ title: Research
 permalink: /Research/
 image: NY_TimesSquare.JPG
 ---
-
 <center><font size="2">Times Square, New York City (2012) &copy; Nitin B. Ravi </font></center>
+
+<br>
 
 My research interests include 
 
