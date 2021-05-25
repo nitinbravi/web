@@ -4,8 +4,9 @@ title:  "An eventful event"
 date:   2017-03-03 12:05:55 +0530
 image:  
 tags:   Memories
-description: A blog recollecting a memory that defined me. 
+#description: Recollecting a memory that defined me. 
 ---
+
 Finally, I have come around to blog about something I have been thinking about for quite a long time. I vividly remember that day, that eventful car ride that haunts me to date. This is my effort to pen down something that I think is an event that played a significant role in my life.
 
 I don't remember the year, but I certainly remember the trip we took as a family (my parents, my grandparents, and myself) to tour the southern part of Tamil Nadu on a white Tata Estate car. Boy, was I thrilled beyond words to go on a tour in a car I always wanted to travel in. The entire trip was uneventful and fun, and I got a wonderful opportunity to visit the village my mother grew up in, the surrounding villages and rivers. It was during the ride back home that this happened- the event which etched itself in my mind.

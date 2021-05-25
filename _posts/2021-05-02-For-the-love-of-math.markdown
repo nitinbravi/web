@@ -4,7 +4,7 @@ title:  "For the love of math"
 date:   2021-05-02 10:05:55 +0530
 image:  
 tags:   Mathematics
-description: Mathematics of everyday life
+#description: Mathematics of everyday life
 ---
 ***
 
