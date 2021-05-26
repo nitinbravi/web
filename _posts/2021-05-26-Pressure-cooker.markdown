@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Science of Pressure cooker"
-date:   2021-05-26 01:05:55 +0530
+date:   2021-05-26 01:00:00 +0530
 image:  
 tags:   Science
 #description: Science in everyday life
