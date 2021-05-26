@@ -8,6 +8,8 @@ image: Mushroom_MuirWoods.JPG
 
 <br>
 
+* Every day science - Blog documenting some interesting science in our every day lives. [Blog]({{ site.baseurl }}{% post_url 2021-05-25-Everyday-science%})
+
 * For the love of math - A 30 day challenge to identify seemingly random applications of mathematics in every day life. [Blog]({{ site.baseurl }}{% post_url 2021-05-02-For-the-love-of-math%})
   
 * An eventful event - A blog recollecting a memory that defined me. [Blog]({{ site.baseurl }}{% post_url 2017-03-03-an-eventful-event%})
