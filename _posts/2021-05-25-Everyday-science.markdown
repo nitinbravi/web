@@ -7,10 +7,10 @@ tags:   Science
 #description: Science in everyday life
 ---
 
-My inspiration for this blog again comes from Prof. Richard Feynman where he joyfully describes the beauty of a flower and its complex inner structure, in a BBC interview for Horizon, [*The pleasure of finding things out*](https://www.bbc.co.uk/programmes/p018w2zl). 
+My inspiration for this blog again comes from Prof. Richard Feynman where he joyfully describes the beauty of a flower and its complex inner structure, in a BBC interview for Horizon, [The Pleasure Of Finding Things Out](https://www.bbc.co.uk/programmes/p018w2zl). 
 
 <iframe src="https://www.youtube.com/embed/ZbFM3rn4ldo" frameborder="0" allowfullscreen></iframe>
-
+<br>
 Zen pencils made a really cool poster of this interview which can be seen [here](https://www.zenpencils.com/comic/137-richard-feynman-the-beauty-of-a-flower/). 
 
 Science is not just for the scientists and indeed science can be intimidating at times. The inner workings of nature cannot be appreciated if it is not explained in simple terms. In this effort, I am going to collate and document some interesting science in our every day lives. I am going to use the information available, referring to videos and articles available online. I am no expert, but I am going to use this activity as an endeavour to learn and point to resources that can help us demystify and appreciate science around us. 
