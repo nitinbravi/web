@@ -1,0 +1,32 @@
+I"<p>What happens when you cook food using a pressure cooker? Broadly, there are two main phenomena that occurs, the temperature raise of liquid (e.g water) due to increase in the pressure - the physics part and breaking down of food compounds at high temperatures - the chemistry part.</p>
+
+<h5 id="the-physics-part">The physics part</h5>
+
+<p>The physics is quite interesting and relies on one key principle - The boiling point of water is dependant on the air pressure. At higher elevations where the air pressure is less, the boiling point of water decreases and vice-versa.</p>
+
+<p>Now consider water inside the cooker. When it is kept in a closed container that is continuously heated, the molecules in gas state gets agitated and moves faster, thereby increasing the temperature to produce more steam. This steam inturn produces pressure on the surface of the food inside, causing the food to cook much faster. The valve outside is just to maintain the pressure inside the cooker, frequently discharging when the pressure inside increases. The state of the system can be best described by <a href="https://en.wikipedia.org/wiki/Van_der_Waals_equation">Van der Waals equation</a>, which is a more generalized form of <a href="https://en.wikipedia.org/wiki/Ideal_gas_law">Ideal Gas Law</a>.</p>
+
+<p>We can now imagine that the water molecules inside the food kept in the cooker would also start boiling and this leads us to the chemical process of the food.</p>
+
+<h5 id="the-chemistry-part">The chemistry part</h5>
+
+<p>The compounds in the food now start to break down into flavour compounds at high tempertures and this is known as <a href="https://en.wikipedia.org/wiki/Maillard_reaction">Maillard reaction</a>. The flavour compounds are dependant on the chemical constituents of the food, temperature, cooking time and the presence of air, and as the name suggests, gives flavour and taste to the food.</p>
+
+<h5 id="some-historical-significance">Some historical significance</h5>
+
+<p>The technology of pressure cooker dates back to 1679 and was invented by French physicist <a href="https://en.wikipedia.org/wiki/Denis_Papin">Denis Papin</a>. It was known as steam digester or Papin’s digester or a bone digester. It is suggested that by 1678, Papin was looking to harness the power of compressed steam and came up with a potential culinary application - a bone digester to extract fat from bones in an high pressure steam environment. He infact created a cook book detailing his experiments with other food products and by 1682, prepared an elaborate meal for the Royal Society wow-ing everyone<sup>1</sup>! This subsequently led to the development of steam piston engine.</p>
+
+<p><img src="/web/images/Denis-Papin-pressure-cooker.jpg" alt="Denis-Papin-Pressure-Cooker" />
+<em>Dennis Papin and Pressure cooker</em></p>
+
+<h4 id="references">References</h4>
+
+<ol>
+  <li>The Instant Pot of the 1600s Was Known as ‘the Digester of Bones’ -<a href="https://www.atlasobscura.com/articles/who-invented-the-instant-pot">Link</a></li>
+  <li>Image source - <a href="https://www.asynt.com/blog/original-master-pressure/">https://www.asynt.com/blog/original-master-pressure/</a></li>
+</ol>
+
+<hr />
+
+<h4 id="consolidated-list-of-topics---everyday-science">Consolidated list of topics - <a href="/web/web/2021/05/25/Everyday-science/">Everyday Science</a></h4>
+:ET

@@ -7,13 +7,13 @@ tags:   Science
 #description: Science in everyday life
 ---
 
-What happens when you cook using a pressure cooker? Broadly, there are two main phenomena that occurs, raising the temperature of liquid by increasing the pressure - the physics part and breaking down of food compounds at high temperatures - the chemistry part. 
+What happens when you cook food using a pressure cooker? Broadly, there are two main phenomena that occurs, the temperature raise of liquid (e.g water) due to increase in the pressure - the physics part and breaking down of food compounds at high temperatures - the chemistry part. 
 
 ##### The physics part
 
-The physics is quite interesting and relys on one key principle - The boiling point of water is dependant on the air pressure. At higher elevations where the air pressure is less, the boiling point of water decreases and vice-versa. 
+The physics is quite interesting and relies on one key principle - The boiling point of water is dependant on the air pressure. At higher elevations where the air pressure is less, the boiling point of water decreases and vice-versa. 
 
-Now consider water inside the cooker. When it is kept in a closed container that is continuously heated, the molecules in gas state gets agitated and moves faster, thereby increasing the temperature to produce more steam, as well as produce pressure from the steam on the surface inside. The valve outside is just to maintain the pressure inside the cooker, frequently discharging when the pressure increases. The state of the system can be best described by [Van der Waals equation](https://en.wikipedia.org/wiki/Van_der_Waals_equation), which is a more generalized form of [Ideal Gas Law](https://en.wikipedia.org/wiki/Ideal_gas_law). 
+Now consider water inside the cooker. When it is kept in a closed container that is continuously heated, the molecules in gas state gets agitated and moves faster, thereby increasing the temperature to produce more steam. This steam inturn produces pressure on the surface of the food inside, causing the food to cook much faster. The valve outside is just to maintain the pressure inside the cooker, frequently discharging when the pressure inside increases. The state of the system can be best described by [Van der Waals equation](https://en.wikipedia.org/wiki/Van_der_Waals_equation), which is a more generalized form of [Ideal Gas Law](https://en.wikipedia.org/wiki/Ideal_gas_law). 
 
 We can now imagine that the water molecules inside the food kept in the cooker would also start boiling and this leads us to the chemical process of the food. 
 
