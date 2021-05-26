@@ -16,26 +16,18 @@ author:
 # Contact links
 twitter: https://twitter.com/nbr2488 # Add your Twitter handle
 linkedin: http://www.linkedin.com/in/nitinbalajee
-#facebook: https://facebook.com/ # Add your Facebook handle
-#dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/nitinbrav # Add your Instagram handle
-#pinterest: https://pinterest.com/ # Add your Pinterest handle
-
-
-#-------------------------------
-# Comment Section (Disqus)
-#disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: nitinbrav # Add instagram username
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-# google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-92185184-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

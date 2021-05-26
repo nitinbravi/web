@@ -107,7 +107,7 @@ The Instagram feed is working using [Instafeed.js](http://instafeedjs.com/) to s
 
 First, you will need to get your account `userId` and `accessToken` from the following URLs:
 
-*   userId: [http://codeofaninja.com/tools/find-instagram-user-id/](http://codeofaninja.com/tools/find-instagram-user-id/)
+*   userId: [http://codeofaninja.com/tools/find-instagram-user-id/](http://codehttps://imgur.com/gallery/Wgzkn4wofaninja.com/tools/find-instagram-user-id/)
 *   accessToken: [instagram.pixelunion.net](http://instagram.pixelunion.net/)
 
 Second, open the `js/common.js` file and replace the `userId` and `accessToken` values.
