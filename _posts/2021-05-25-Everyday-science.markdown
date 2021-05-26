@@ -22,4 +22,4 @@ Science is not just for the scientists and indeed science can be intimidating at
 ***
 ### Posts
 
-**`26/05/2021`** -  [The Science of Pressure Cooker]({{ site.baseurl }}{% post_url 2021-05-26-Pressure-cooker-science%})
+**`26/05/2021`** -  [The Science of Pressure Cooker]({{ site.baseurl }}{% post_url 2021-05-25-Pressure-cooker-science%})
